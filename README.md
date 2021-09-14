@@ -17,7 +17,8 @@ As shown above, Urban areas consistently show higher total fare amounts when com
 
 ### Total Fares by City Type
 
-![Pyber_Challenge_Line_Graph](https://user-images.githubusercontent.com/89044350/133321929-88a20fda-fa39-404c-b536-bfa92f5129ec.PNG)
+![PyBer_fare_summary](https://user-images.githubusercontent.com/89044350/133326195-668d7b88-1f59-409a-a7c7-243d75bfb7de.png)
+
 
 The graph shown above makes it much easier to see the overall Total Fares by City Type and how those fare totals trend by month for each respective city type. The Y-axis represents Total Fares ($USD) while the X-axis represents each month data was analyzed. Different colors were used to make it easier to decipher how each city type performed.
 
